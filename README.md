@@ -1,6 +1,6 @@
-# vetores-A-e-B!
+# vetores-A-e-B
 
-[vetoresaeb](https://user-images.githubusercontent.com/65674963/173481939-b9d7a8b6-5cc9-41f7-b7d4-23786b1740a5.PNG)
+![vetoresaeb](https://user-images.githubusercontent.com/65674963/173481939-b9d7a8b6-5cc9-41f7-b7d4-23786b1740a5.PNG)
 
 Inicio
 
