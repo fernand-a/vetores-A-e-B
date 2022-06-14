@@ -6,14 +6,14 @@ Inicio
 
     x == 0
     x == x+1
-    A[x],B[x]
-    Se x > 4 
+    a[x],b[x]
+    se x > 4 
     x == 1
-    C == 0
-    Fim enquanto
-    Se x <= 5
-    C = C + A[x] * B[x]
+    c == 0
+    fim enquanto
+    se x <= 5
+    c = c + a[x] * b[x]
     x = x + 1
-    Exibe o valor de C
+    exibe o valor de c
 
 Fim
